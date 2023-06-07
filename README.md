@@ -1,7 +1,7 @@
 ### 👋 Hi there! I am Leslie
-### 🔭 I am interested in Data Analytics and Web Development
-### 🌱 I am currently learning Data Analysis with Python
-### 👯 I am looking to colloborate on projects that involve data analysis and sharing the meaningful insights there of.
+### 🔭 I am interested in architecting cloud solutions and web development
+### 🌱 I am currently working on full stack web development on AWS serverless architecture
+### 👯 I am looking to colloborate on projects that involve full stack development and sharing the meaningful insights there of.
 ### 📫 You can reach me on leslienarh@gmail.com
 
 
